@@ -4,7 +4,13 @@
 Control center for managing BudgetifyMe product direction, development, and execution.
 
 ## Current Version
+1.0.0 (Live on App Store)
 1.1.0 (In Progress)
+
+## Status
+- App is live on App Store
+- Initial user acquisition phase started
+- Collecting user feedback 
 
 ## Product Vision
 A simple, private expense tracking app with smart AI insights.
